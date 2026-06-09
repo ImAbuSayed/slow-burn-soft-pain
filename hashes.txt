@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Slow Burn Soft Pain
+
+This log tracks the cryptographic history and versioning for the song **Slow Burn Soft Pain** (slow-burn-soft-pain).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-09T15:36:10.942046 | `v1` | `8f3435b44e53754749bf5ff4c032038d7b052eac3d58a42041d8b1bfb4ac3dfb` | `495dcc34532f6171f59432fb27733aa4282e21a30f9aef3b5b83bfe6c943dadf` | `2026-06-09_slow-burn-soft-pain-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
